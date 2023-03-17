@@ -38,5 +38,15 @@ namespace ProgrammSolvesForBusiness
             context.Агент.Load();
             agentViewSource.Source = context.Агент.Local;
         }
+
+        private void editBtn(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void addBtn(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
